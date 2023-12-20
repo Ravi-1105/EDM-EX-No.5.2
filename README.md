@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![EDM Ex 5 2_page-0001](https://github.com/Ravi-1105/EDM-EX-No.5.2/assets/139841688/0ea9acdc-eea0-40cf-b933-d59c8776f4b9)
 
 
 ## RESULT:
